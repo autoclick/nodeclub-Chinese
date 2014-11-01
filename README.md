@@ -1,4 +1,10 @@
-Nodeclub
+#Nodeclub-Chinese
+
+# Editted
+- Replace module bcrypt to bcrypt-nodejs
+- Removed module pm2
+Tested on Windows 8.1 + nodejs v0.10.31
+
 =
 
 [![build status][travis-image]][travis-url]
